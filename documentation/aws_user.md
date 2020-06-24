@@ -15,7 +15,7 @@
 
 ---
 
-![](http://github.com/tlepple/horizon-public-how2/provider/aws/images/nav2usersLarge.gif)
+![](https//github.com/tlepple/horizon-public-how2/provider/aws/images/nav2usersLarge.gif)
 
 ---
 
