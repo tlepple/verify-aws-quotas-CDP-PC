@@ -5,28 +5,17 @@
 ### Notes:
 ---
 
-*  The below videos were recorded in 30 second segments to keep file sizes small (a requirement from github).
 *  Follow the instructions in order.
 
 ---
 ---
 
-1.  Navigate to the AWS service `IAM`:
+1.  Navigate to the AWS service `IAM` and create the user:
+* Make sure that the user name is only created in lower case
 
 ---
 
-![](https//github.com/tlepple/horizon-public-how2/provider/aws/images/nav2usersLarge.gif)
-
----
-
-
-2.  Create an AWS User:
-
-*  Make sure that the user name is only created in lower case
-
----
-
-![](./images/createUserLarge.gif)
+![](./images/createAwsUser2.gif)
 
 ---
 
