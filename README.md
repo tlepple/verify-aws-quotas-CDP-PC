@@ -57,7 +57,7 @@ cd /app/verify-aws-quotas-CDP-PC
 
 | Provider         | Readme Document  |
 | ---------------- | ---------------- |
-| AWS              | [Setup Steps](./documentation/aws_readme.md)|
+| AWS              | [Setup Steps](https://github.com/tlepple/verify-aws-quotas-CDP-PC/blob/master/documentation/aws_user.md)|
 | AWS              | [Terminate Steps](./terminate_readme.md)|
 
 ---
