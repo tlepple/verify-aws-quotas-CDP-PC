@@ -46,5 +46,9 @@ aws service-quotas get-service-quota     --service-code ec2     --quota-code L-1
 
 aws service-quotas list-service-quotas \
     --service-code vpc
+
+# list security group info for a tag
+aws ec2 describe-security-groups \
+    --filters Name=tag:owner,Values=tlepple
 ```
 
