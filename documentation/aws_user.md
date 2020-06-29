@@ -19,7 +19,9 @@
 
 ---
 
-3. Save user credentials to your computer.
+2. Save user credentials to your computer.
+
+* TBD - Record steps video
 
 ---
 
@@ -27,24 +29,22 @@
 
 ---
 
-4.  Add new user to the `Admins` group
+3.  Create a Key Pair in the EC2 Service
 
-*  This step will appear to fail.  The root cause is that we do not have the IAM Permission to list users part of the group `Admins`
-
-![](./images/addUser2AdminsGroupLarge.gif)
-
----
-
-5.  Verify that your user is part of group `Admins`
-
-![](./images/verifyUserGroupLarge.gif)
-
----
-
-6.  Create a Key Pair in the EC2 Service
-
+* TBD - Record steps video
 ![](./images/createKPlarge.gif)
 
 ---
 ---
+
+*  TBD  Code Rest commands to check prereqs:
+
+### Examples:
+
+```
+aws service-quotas get-service-quota     --service-code ec2     --quota-code L-1216C47A
+
+aws service-quotas list-service-quotas \
+    --service-code vpc
+```
 
