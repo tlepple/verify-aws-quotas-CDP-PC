@@ -35,6 +35,16 @@
 ![](./images/createKPlarge.gif)
 
 ---
+
+4.  Export your AWS security credentials:
+
+```
+export AWS_ACCESS_KEY_ID=<Your AWS Access Key>
+export AWS_SECRET_ACCESS_KEY=<Your AWS Secret Access Key>
+export AWS_DEFAULT_REGION=<Your AWS Region>
+
+```
+
 ---
 
 *  TBD  Code Rest commands to check prereqs:
